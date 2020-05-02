@@ -1,6 +1,6 @@
 > email: joris.daniel@gmail.com | website: [yoriiis.github.io](https://yoriiis.github.io)
 
-# Joris Daniel - Front-end engineer
+# Joris Daniel - Front-end engineer 👨‍💻👋
 
 ## Skills
 
@@ -100,3 +100,12 @@ _2006 – 2008_
 
 **Bac STT Informatique et Gestion**<br />
 _2003 – 2006_
+
+## Activities and interests
+
+- Climbing 🧗‍♂️
+- Mountain bike 🚵‍♂️
+- Hockey 🏒
+- Swimming 🏊‍♂️
+- I like to go see one man show 🎭
+- Plant enthusiast 🌱🌵🌴
