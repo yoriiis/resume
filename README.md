@@ -9,7 +9,7 @@ Passionate about code, web performance, UX and design, I use my free time on ope
 
 ## Skills 🤹🏽
 
-`Front-end` `Javascript` `Typescript` `CSS` `HTML5` `Responsive Design` `Jest` `Node.js` `API` `Webpack` `Gulp.js` `Open Source` `Git` `Github` `Gitlab` `CI/CD` `Netlify` `Firebase` `Google Cloud Platform` `Google Analytics` `Google Maps Platforms` `React.js` `React Native` `jQuery` `Bootstrap` `Back-end` `PHP` `Symfony` `Twig` `Wordpress` `Drupal` `Docker` `Apache` `Nginx` `Adobe Photoshop` `InVision` `Jira` `SEO` `Project management`
+`Front-end` `Javascript` `Typescript` `CSS` `HTML5` `Responsive Design` `Jest` `Node.js` `API` • `Webpack` `Gulp.js` • `Open Source` `Git` `Github` `Gitlab` `CI/CD` • `Netlify` `Firebase` `Google Cloud Platform` `Google Analytics` `Google Maps Platforms` • `React.js` `React Native` `jQuery` `Bootstrap` • `Back-end` `PHP` `Symfony` `Twig` `Wordpress` `Drupal` `Docker` • `Apache` `Nginx` • `Adobe Photoshop` `InVision` • `Jira` `SEO` `Project management`
 
 ## Work experiences 👨‍💻
 
@@ -24,11 +24,11 @@ _July 2018 – Present_
 - JavaScript development
 - Web and mobile integration
 - Symfony theming
-- Development workshops animation
+- Workshops animation
 - Leading team development
 - Participation in the improvement of team methodologies
 
-> Technologies: JS, Node.js, ES6/7/8, Webpack, HTML5, CSS3, PostCSS, Git, PHP, Symfony, inVision
+> Tech Stack: JS, Node.js, ES6/7/8, Webpack, HTML5, CSS3, PostCSS, Git, PHP, Symfony, inVision
 
 ### Mazarine Digital, Paris
 
@@ -43,10 +43,10 @@ _November 2011 – June 2018_
 - Leading team development
 - Research and development
 - Participation in the recruitment of future developers
-- Participation in the improvement of the agency’s methodology
+- Participation in the improvement of the agency's methodology
   PHP, Drupal
 
-> Technologies: Javascript, HTML5, Drupal, Adobe Photoshop, Gulp, Webpack, jQuery, SASS, Git, ES6
+> Tech Stack: Javascript, HTML5, Drupal, Adobe Photoshop, Gulp, Webpack, jQuery, SASS, Git, ES6
 
 ### Open-Source
 
@@ -58,7 +58,7 @@ Creation and development of Open-Source projects available on Github and NPM.
 - [github.com/yoriiis](https://github.com/yoriiis)
 - [npmjs.com/~yoriiis](https://npmjs.com/~yoriiis)
 
-> Technologies: Node.js, Javascript, React.js, Docker, Vue.js, Firebase, CI/CD, Travis, Symfony
+> Tech Stack: Node.js, Javascript, React.js, Docker, Vue.js, Firebase, CI/CD, Travis, Symfony
 
 ### Freelance
 
@@ -70,7 +70,7 @@ _September 2011 – December 2014_
 - Emailing integration
 - Creation of Facebook application
 
-> Technologies: Responsive Design, HTML5, CSS3, Javascript, Facebook API, PHP
+> Tech Stack: Responsive Design, HTML5, CSS3, Javascript, Facebook API, PHP
 
 ### Betwin, Paris
 
@@ -82,7 +82,7 @@ _September 2010 – September 2011_
 - Web and mobile integration
 - Creation of Facebook application
 
-> Technologies: Gestion de projet, Responsive Design, Facebook API, Drupal, Javascript, HTML5, CSS3, PHP
+> Tech Stack: Project management, Responsive Design, Facebook API, Drupal, Javascript, HTML5, CSS3, PHP
 
 ## Education 🏫
 
