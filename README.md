@@ -114,3 +114,12 @@ _2003 – 2006_
 - Swimming 🏊‍♂️
 - I like to go see one man show 🎭
 - Plant enthusiast 🌱🌵🌴
+
+## Projects
+
+- [Télé-Loisirs](https://www.programme-tv.net)
+- [Van Cleef & Arpels - Stories](https://www.vancleefarpels.com/eu/fr/nanosites/stories.html)
+- [Eau Thermale Avène](https://www.eau-thermale-avene.fr)
+- [Oenobiol](https://www.oenobiol.com)
+- [Thalassa](https://www.thalassa.com)
+- [Muzo](https://www.muzo.co)
