@@ -1,12 +1,17 @@
-# Joris Daniel - Front-end engineer 👨‍💻👋
+# Joris Daniel - Front-end engineer 👋
 
-> email: joris.daniel@gmail.com | website: [yoriiis.github.io](https://yoriiis.github.io)
+Front-end engineer and open-source's passionate.
+I am currently working at Prisma Media as a front-end lead tech and previously at Mazarine Digital France.<br />
+Passionate about code, web performance, UX and design, I use my free time on open source projects and Freelance.
 
-## Skills
+📧 joris.daniel@gmail.com
+🔗 [yoriiis.github.io](https://yoriiis.github.io)
+
+## Skills 🤹🏽
 
 `Front-end` `Javascript` `Typescript` `CSS` `HTML5` `Responsive Design` `Jest` `Node.js` `API` `Webpack` `Gulp.js` `Open Source` `Git` `Github` `Gitlab` `CI/CD` `Netlify` `Firebase` `Google Cloud Platform` `Google Analytics` `Google Maps Platforms` `React.js` `React Native` `jQuery` `Bootstrap` `Back-end` `PHP` `Symfony` `Twig` `Wordpress` `Drupal` `Docker` `Apache` `Nginx` `Adobe Photoshop` `InVision` `Jira` `SEO` `Project management`
 
-## Work experiences
+## Work experiences 👨‍💻
 
 ### Prisma Media, Paris
 
@@ -79,7 +84,7 @@ _September 2010 – September 2011_
 
 > Technologies: Gestion de projet, Responsive Design, Facebook API, Drupal, Javascript, HTML5, CSS3, PHP
 
-## Education
+## Education 🏫
 
 ### HETIC
 
