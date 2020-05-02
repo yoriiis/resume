@@ -48,14 +48,10 @@ _November 2011 – June 2018_
 **Front-end developer**<br />
 _January 2012 – Present_
 
-Création et développement de projets Open-Source disponible sur Github et NPM.
+Creation and development of Open-Source projects available on Github and NPM.
 
 [github.com/yoriiis](https://github.com/yoriiis)
 [npmjs.com/~yoriiis](https://npmjs.com/~yoriiis)
-
-- ChunksWebpackPlugin
-- Storelocatorjs
-- vLitejs
 
 > Technologies: Node.js, Javascript, React.js, Docker, Vue.js, Firebase, CI/CD, Travis, Symfony
 
@@ -87,21 +83,20 @@ Creation of Facebook application
 
 ### HETIC
 
-**Master 2 : Expert en Ingénierie et Management de la Communication Numérique**
-
+**Master 2 : Expert en Ingénierie et Management de la Communication Numérique**<br />
 _2009 – 2011_
 
 ### Université de Cergy-Pontoise
 
-**Licence professionnelle Communication & Médias**
+**Licence professionnelle Communication & Médias**<br />
 _2008 – 2009_
 
 ### Lycée Saint-Louis
 
-**BTS Informatique de Gestion**
+**BTS Informatique de Gestion**<br />
 _2006 – 2008_
 
 ### Lycée Sacré Coeur
 
-**Bac STT Informatique et Gestion**
+**Bac STT Informatique et Gestion**<br />
 _2003 – 2006_
