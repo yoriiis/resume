@@ -1,12 +1,10 @@
-> joris.daniel@gmail.com
->
-> [yoriiis.github.io](https://yoriiis.github.io)
+> email: joris.daniel@gmail.com | website: [yoriiis.github.io](https://yoriiis.github.io)
 
 # Joris Daniel - Front-end engineer
 
 ## Skills
 
-`Javascript` | `Node.js` | `React.js` | `HTML5` | `CSS3` | `PHP` | `Git` | `API` | `React Native` | `Développement Front-end` | `jQuery` | `Bootstrap` | `Développement Back-end` | `Symfony` | `Docker` | `Nginx` | `Adobe Photoshop` | `Atlassian Jira` | `ES6` | `Wordpress` | `Drupal` | `SEO` | `Management d’équipe` | `Typescript`
+`Front-end` `Javascript` `Typescript` `CSS` `HTML5` `Responsive Design` `Jest` `Node.js` `API` `Webpack` `Gulp.js` `Open Source` `Git` `Github` `Gitlab` `CI/CD` `Netlify` `Firebase` `Google Cloud Platform` `Google Analytics` `Google Maps Platforms` `React.js` `React Native` `jQuery` `Bootstrap` `Back-end` `PHP` `Symfony` `Twig` `Wordpress` `Drupal` `Docker` `Apache` `Nginx` `Adobe Photoshop` `InVision` `Jira` `SEO` `Project management`
 
 ## Work experiences
 
@@ -25,7 +23,7 @@ _July 2018 – Present_
 - Leading team development
 - Participation in the improvement of team methodologies
 
-Technologies: JS, Node.js, ES6/7/8, Webpack, HTML5, CSS3, PostCSS, Git, PHP, Symfony, inVision
+> Technologies: JS, Node.js, ES6/7/8, Webpack, HTML5, CSS3, PostCSS, Git, PHP, Symfony, inVision
 
 ### Mazarine Digital, Paris
 
@@ -43,7 +41,7 @@ _November 2011 – June 2018_
 - Participation in the improvement of the agency’s methodology
   PHP, Drupal
 
-Technologies: Javascript, HTML5, Drupal, Adobe Photoshop, Gulp, Webpack, jQuery, SASS, Git, ES6
+> Technologies: Javascript, HTML5, Drupal, Adobe Photoshop, Gulp, Webpack, jQuery, SASS, Git, ES6
 
 ### Open-Source
 
@@ -59,7 +57,7 @@ Création et développement de projets Open-Source disponible sur Github et NPM.
 - Storelocatorjs
 - vLitejs
 
-Technologies: Node.js, Javascript, React.js, Docker, Vue.js, Firebase, Intégration continue, Travis, Symfony
+> Technologies: Node.js, Javascript, React.js, Docker, Vue.js, Firebase, CI/CD, Travis, Symfony
 
 ### Freelance
 
@@ -71,7 +69,7 @@ Drupal and Wordpress theming
 Emailing integration
 Creation of Facebook application
 
-Technologies: Intégration responsive, HTML5, CSS3, Javascript, Facebook, PHP
+> Technologies: Responsive Design, HTML5, CSS3, Javascript, Facebook API, PHP
 
 ### Betwin, Paris
 
@@ -83,7 +81,7 @@ Junior technical project manager
 Web and mobile integration
 Creation of Facebook application
 
-Technologies: Gestion de projet, Intégration responsive, Facebook marketing, Drupal, Javascript, HTML5, CSS3, PHP
+> Technologies: Gestion de projet, Responsive Design, Facebook API, Drupal, Javascript, HTML5, CSS3, PHP
 
 ## Education
 
