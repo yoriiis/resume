@@ -1,6 +1,6 @@
-> email: joris.daniel@gmail.com | website: [yoriiis.github.io](https://yoriiis.github.io)
-
 # Joris Daniel - Front-end engineer 👨‍💻👋
+
+> email: joris.daniel@gmail.com | website: [yoriiis.github.io](https://yoriiis.github.io)
 
 ## Skills
 
@@ -50,8 +50,8 @@ _January 2012 – Present_
 
 Creation and development of Open-Source projects available on Github and NPM.
 
-[github.com/yoriiis](https://github.com/yoriiis)
-[npmjs.com/~yoriiis](https://npmjs.com/~yoriiis)
+- [github.com/yoriiis](https://github.com/yoriiis)
+- [npmjs.com/~yoriiis](https://npmjs.com/~yoriiis)
 
 > Technologies: Node.js, Javascript, React.js, Docker, Vue.js, Firebase, CI/CD, Travis, Symfony
 
