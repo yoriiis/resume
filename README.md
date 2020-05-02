@@ -60,10 +60,10 @@ Creation and development of Open-Source projects available on Github and NPM.
 **Front-end developer**<br />
 _September 2011 – December 2014_
 
-Web and mobile integration
-Drupal and Wordpress theming
-Emailing integration
-Creation of Facebook application
+- Web and mobile integration
+- Drupal and Wordpress theming
+- Emailing integration
+- Creation of Facebook application
 
 > Technologies: Responsive Design, HTML5, CSS3, Javascript, Facebook API, PHP
 
@@ -72,10 +72,10 @@ Creation of Facebook application
 **Technical project manager & developer**<br />
 _September 2010 – September 2011_
 
-Apprenticeship
-Junior technical project manager
-Web and mobile integration
-Creation of Facebook application
+- Apprenticeship
+- Junior technical project manager
+- Web and mobile integration
+- Creation of Facebook application
 
 > Technologies: Gestion de projet, Responsive Design, Facebook API, Drupal, Javascript, HTML5, CSS3, PHP
 
