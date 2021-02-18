@@ -9,7 +9,21 @@ Passionate about code, web performance, UX and design, I use my free time on ope
 
 ## Skills 🤹🏽
 
-`Front-end` `Javascript` `Typescript` `CSS` `HTML5` `Responsive Design` `Jest` `Node.js` `API` • `Webpack` `Gulp.js` • `Open Source` `Git` `Github` `Gitlab` `CI/CD` • `Netlify` `Firebase` `Google Cloud Platform` `Google Analytics` `Google Maps Platforms` • `React.js` `React Native` `jQuery` `Bootstrap` • `Back-end` `PHP` `Symfony` `Twig` `Wordpress` `Drupal` `Docker` • `Apache` `Nginx` • `Adobe Photoshop` `InVision` • `Jira` `SEO` `Project management`
+### Front-end
+
+`Javascript` `Typescript` `CSS` `HTML5` `Responsive Design` `Jest` `Node.js` `React`
+
+### Back-end
+
+`PHP` `Symfony` `Twig` `Wordpress` `Drupal`
+
+### DevOps
+
+`Docker` `Apache` `Nginx` `Ubuntu` `CI/CD` `Ansible`
+
+### Others
+
+`GIT` `Webpack` `Gulp` `Netlify` `Firebase` `Google Analytics` `SEO`
 
 ## Work experiences 👨‍💻
 
@@ -28,7 +42,7 @@ _July 2018 – Present_
 - Leading team development
 - Participation in the improvement of team methodologies
 
-> Tech Stack: JS, Node.js, ES6/7/8, Webpack, HTML5, CSS3, PostCSS, Git, PHP, Symfony, inVision
+> Tech Stack: JS, Node.js, Webpack, HTML5, CSS, PostCSS, Git, PHP, Symfony, inVision
 
 ### Mazarine Digital, Paris
 
@@ -46,7 +60,7 @@ _November 2011 – June 2018_
 - Participation in the improvement of the agency's methodology
   PHP, Drupal
 
-> Tech Stack: Javascript, HTML5, Drupal, Adobe Photoshop, Gulp, Webpack, jQuery, SASS, Git, ES6
+> Tech Stack: Javascript, HTML5, Drupal, Adobe Photoshop, Gulp, Webpack, jQuery, SASS, Git
 
 ### Open-Source
 
@@ -58,7 +72,7 @@ Creation and development of Open-Source projects available on Github and NPM.
 - [github.com/yoriiis](https://github.com/yoriiis)
 - [npmjs.com/~yoriiis](https://npmjs.com/~yoriiis)
 
-> Tech Stack: Node.js, Javascript, React.js, Docker, Vue.js, Firebase, CI/CD, Travis, Symfony
+> Tech Stack: Node.js, Javascript, React, Docker, Vue.js, Firebase, CI/CD, Symfony
 
 ### Freelance
 
@@ -70,7 +84,7 @@ _September 2011 – December 2014_
 - Emailing integration
 - Creation of Facebook application
 
-> Tech Stack: Responsive Design, HTML5, CSS3, Javascript, Facebook API, PHP
+> Tech Stack: Responsive Design, HTML5, CSS, Javascript, Facebook API, PHP
 
 ### Betwin, Paris
 
@@ -123,3 +137,12 @@ _2003 – 2006_
 - [Oenobiol](https://www.oenobiol.com)
 - [Thalassa](https://www.thalassa.com)
 - [Muzo](https://www.muzo.co)
+
+## Latest open-source projects
+
+- [step-manager](https://github.com/yoriiis/step-manager)
+- [svg-chunk-webpack-plugin](https://github.com/yoriiis/svg-chunk-webpack-plugin)
+- [tumblr-builder](https://yoriiis.github.io/tumblr-builder)
+- [chunks-webpack-plugin](https://github.com/yoriiis/chunks-webpack-plugin)
+- [vlitejs](https://github.com/yoriiis/vlitejs)
+- [storelocatorjs](https://github.com/yoriiis/storelocatorjs)
