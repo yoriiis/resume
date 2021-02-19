@@ -7,6 +7,8 @@ Passionate about code, web performance, UX and design, I use my free time on ope
 📧 joris.daniel@gmail.com
 🔗 [yoriiis.github.io](https://yoriiis.github.io)
 
+😎  💻  🌵  🏍  ✈  🌏
+
 ## Skills 🤹🏽
 
 ### Front-end
@@ -23,7 +25,7 @@ Passionate about code, web performance, UX and design, I use my free time on ope
 
 ### Others
 
-`GIT` `Webpack` `Gulp` `Netlify` `Firebase` `Google Analytics` `SEO`
+`Git` `Webpack` `Gulp` `Netlify` `Firebase` `Google Analytics` `SEO`
 
 ## Work experiences 👨‍💻
 
@@ -82,7 +84,6 @@ _September 2011 – December 2014_
 - Web and mobile integration
 - Drupal and Wordpress theming
 - Emailing integration
-- Creation of Facebook application
 
 > Tech Stack: Responsive Design, HTML5, CSS, Javascript, Facebook API, PHP
 
